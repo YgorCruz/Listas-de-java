@@ -1,0 +1,511 @@
+{
+    // Use o IntelliSense para aprender sobre possíveis atributos.
+    // Passe o mouse para ver as descrições dos atributos existentes.
+    // Para obter mais informações, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ex57<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Ex57",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ex58<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Ex58",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ex59<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Ex59",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ex60<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Ex60",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ex61<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Ex61",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ex62<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Ex62",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ex63<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Ex63",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ex64<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Ex64",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ex65<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Ex65",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio01<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio01",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio02<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio02",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio03<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio03",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio04<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio04",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio05<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio05",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio06<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio06",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio07<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio07",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio08<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio08",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio09<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio09",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio10<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio10",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio11<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio11",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio12<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio12",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio13<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio13",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio14<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio14",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio15<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio15",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio16<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio16",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio17<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio17",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio18<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio18",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio19<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio19",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio20<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio20",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio21<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio21",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio22<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio22",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio23<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio23",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio24<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio24",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio25<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio25",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio26<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio26",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio27<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio27",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio28<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio28",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio29<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio29",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio30<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio30",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio31<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio31",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio32<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio32",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio33<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio33",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio34<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio34",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio35<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio35",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio36<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio36",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio37<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio37",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio38<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio38",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio39<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio39",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio40<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio40",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio41<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio41",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio42<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio42",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio43<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio43",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio44<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio44",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio45<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio45",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio46<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio46",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio47<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio47",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio48<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio48",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio49<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio49",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio50<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio50",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio51<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio51",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio52<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio52",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio53<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio53",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio54<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio54",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio55<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio55",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio56<Lista06_72953d7a>",
+            "request": "launch",
+            "mainClass": "Exercicio56",
+            "projectName": "Lista06_72953d7a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ex50",
+            "request": "launch",
+            "mainClass": "Ex50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ex54",
+            "request": "launch",
+            "mainClass": "Ex54"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio47",
+            "request": "launch",
+            "mainClass": "Exercicio47"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio48",
+            "request": "launch",
+            "mainClass": "Exercicio48"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio49",
+            "request": "launch",
+            "mainClass": "Exercicio49"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio50",
+            "request": "launch",
+            "mainClass": "Exercicio50"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio51",
+            "request": "launch",
+            "mainClass": "Exercicio51"
+        }
+    ]
+}

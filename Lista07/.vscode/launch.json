@@ -1,0 +1,27 @@
+{
+    // Use o IntelliSense para aprender sobre possíveis atributos.
+    // Passe o mouse para ver as descrições dos atributos existentes.
+    // Para obter mais informações, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Exercicio01<Lista07_72953d7b>",
+            "request": "launch",
+            "mainClass": "Exercicio01",
+            "projectName": "Lista07_72953d7b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ex1",
+            "request": "launch",
+            "mainClass": "Ex1"
+        }
+    ]
+}
